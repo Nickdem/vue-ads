@@ -1,0 +1,56 @@
+{
+  "users": [
+    {
+      "email": "t1@mail.ru",
+      "password": "123456",
+      "id": 1601643446679.8225
+    }
+  ],
+  "ads": [
+    {
+      "title": "First ad",
+      "desc": "1st ad desc",
+      "promo": true,
+      "imgSrc": "https://via.placeholder.com/1900x500/000000/FF0000/?text=",
+      "id": 1,
+      "uid": 1601643446679.8225
+    },
+    {
+      "title": "Second ad1",
+      "desc": "2nd ad desc",
+      "promo": true,
+      "imgSrc": "https://via.placeholder.com/1900x500/FFFF00/000000/?text=",
+      "id": 2
+    },
+    {
+      "title": "Third ad",
+      "desc": "3rd ad des'",
+      "promo": false,
+      "imgSrc": "https://via.placeholder.com/1900x500/FF0000/FFFFFF/?text=",
+      "id": 3
+    },
+    {
+      "title": "Love me?",
+      "desc": "Testsetesttes",
+      "color": {
+        "text": "FFFF00",
+        "background": "000000"
+      },
+      "promo": true,
+      "id": 0.26518771399613716,
+      "imgSrc": "https://via.placeholder.com/1900x500/000000/FFFF00/?text="
+    },
+    {
+      "title": "Testing123",
+      "desc": "123456788900",
+      "color": {
+        "text": "000000",
+        "background": "FFFF00"
+      },
+      "promo": false,
+      "uid": 1601643446679.8225,
+      "id": 0.0008790964079750108,
+      "imgSrc": "https://via.placeholder.com/1900x500/FFFF00/000000/?text="
+    }
+  ]
+}
